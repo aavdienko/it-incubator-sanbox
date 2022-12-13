@@ -1,0 +1,11 @@
+// Create a p element below your h2 element, and give it the text Hello Paragraph.
+
+<h1>Hello World</h1>
+<h2>CatPhotoApp</h2>
+<p>Hello Paragraph</p>
+
+// Tests
+
+// Passed: Your code should have a valid p element.
+// Passed: Your p element should have the text Hello Paragraph.
+// Passed: Your p element should have a closing tag.
