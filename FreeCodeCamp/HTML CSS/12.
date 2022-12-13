@@ -1,0 +1,28 @@
+// Nest the existing a element within a new p element. Do not create a new anchor tag. 
+// The new paragraph should have text that says View more cat photos, where cat photos is a link, and the rest is plain text.
+
+
+<h2>CatPhotoApp</h2>
+<main>
+
+<p>
+  View more <a href="https://www.freecatphotoapp.com" target="_blank">cat photos</a>
+</p>
+
+  <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
+
+  <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+  <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
+</main>
+
+Tests
+
+Passed: You should only have one a element.
+Passed: The a element should link to "https://www.freecatphotoapp.com".
+Passed: Your a element should have the anchor text of cat photos
+Passed: You should create a new p element. There should be at least 3 total p tags in your HTML code.
+Passed: Your a element should be nested within your new p element.
+Passed: Your p element should have the text View more  (with a space after it).
+Passed: Your a element should not have the text View more.
+Passed: Each of your p elements should have a closing tag.
+Passed: Each of your a elements should have a closing tag.
