@@ -1,0 +1,12 @@
+// Add an h2 tag that says "CatPhotoApp" to create a second HTML element below your "Hello World" h1 element.
+
+<h1>Hello World</h1>
+<h2>CatPhotoApp</h2>
+
+//Tests
+
+// Passed: You should create an h2 element.
+// Passed: Your h2 element should have a closing tag.
+// Passed: Your h2 element should have the text CatPhotoApp.
+// Passed: Your h1 element should have the text Hello World.
+// Passed: Your h1 element should be before your h2 element.
